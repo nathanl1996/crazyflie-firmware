@@ -14,4 +14,11 @@ const float I_yy = 16.0e-6; // kg.m^2
 const float I_zz = 29.0e-6; // kg.m^2
 const float l = 33.0e-3;    // m
 
+// Equation constants = LAB2
+const float a2 = 1.16e-7; // (1.083e-07, 1.237e-07)
+const float a1 = 4.488e-12;
+
+// Equation constants = LAB3
+const float k1 = 1.726e-08;
+
 #endif
